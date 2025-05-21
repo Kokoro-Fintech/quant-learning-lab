@@ -10,14 +10,14 @@ It is **not a standalone application**, but rather a reference lab that I active
 
 This repo is organized into two main folders:
 
-### `Projects/`
+### `projects/`
 Contains Python scripts intended to serve as full or partial tools for real-world use cases.
 
 - These are designed to perform specific tasks or support automation.
 - Some projects are complete; others are in development or paused — but all are included to maintain a clear snapshot of my iterative progress.
 - Examples include: a metals price calculator, a trade-tracking tool, and message encryption scripts.
 
-### `Lesson_Modules/`
+### `lesson_modules/`
 A growing library of hands-on learning material, pattern drills, and problem-solving logic used to sharpen my skills in Python and machine learning.
 
 - Includes tutorial-based scripts, LeetCode problems, and my own logic challenges.
