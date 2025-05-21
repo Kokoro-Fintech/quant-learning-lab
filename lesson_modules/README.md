@@ -1,4 +1,4 @@
-# Lesson_Modules
+# Lesson Modules
 
 This folder contains a curated collection of practice scripts, tutorials, logic exercises, and custom problem sets created throughout my journey learning Python and applying it to data science and quantitative trading.
 
