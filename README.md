@@ -1,4 +1,4 @@
-# Quant Learning Lab
+# Quant Learning Lab 🧪
 
 This repository is a personal learning sandbox — a curated collection of small projects, logic exercises, and tutorials that support my ongoing development in machine learning, algorithmic trading, and quantitative analysis.
 
